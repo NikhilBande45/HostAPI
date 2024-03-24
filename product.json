@@ -1,0 +1,56 @@
+[
+    {
+        "name" : "iphone",
+        "price": 154,
+        "feature" : true,
+        "company" : "Apple"
+    },
+
+    {
+        "name" : "Samsung",
+        "price": 154,
+        "feature" : true,
+        "company" : "Apple"
+    },
+
+    {
+        "name" : "Dell",
+        "price": 154,
+        "feature" : true,
+        "company" : "Apple"
+    },
+
+    {
+        "name" : "HP",
+        "price": 154,
+        "feature" : false,
+        "company" : "Apple"
+    },
+
+    {
+        "name" : "iphone",
+        "price": 1546,
+        "feature" : false,
+        "company" : "Apple"
+    },
+
+    {
+        "name" : "iphone",
+        "price": 135754,
+        "feature" : false,
+        "company" : "Apple"
+    },
+    {
+        "name" : "iphone12",
+        "price": 1546,
+        "feature" : false,
+        "company" : "Apple"
+    },
+
+    {
+        "name" : "iphone13",
+        "price": 135754,
+        "feature" : false,
+        "company" : "Apple"
+    }
+]
